@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/dmkon/test/issues"
   },
-  "homepage": "https://github.com/dmkon/test#readme"
+  "homepage": "https://github.com/dmkon/test#readme",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "webpack": "^3.10.0"
+  }
 }
