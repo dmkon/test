@@ -1,1 +1,1 @@
-module.exports = 'App:init';
+module.exports = 'App: init';
