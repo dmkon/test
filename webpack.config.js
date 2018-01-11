@@ -17,16 +17,16 @@ module.exports = {
 
                     },
                     {
-                        loader: "css-loader",
-                        options:{
-                            modules: true
-                        }
+                        loader: "css-loader"
+                        // options:{
+                        //     modules: true
+                        // }
                     },
                     {
-                        loader: "less-loader",
-                        options:{
-                            modules: true
-                        }
+                        loader: "less-loader"
+                        // options:{
+                        //     modules: true
+                        // }
                     }
                 ]
             }
